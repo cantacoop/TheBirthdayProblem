@@ -106,6 +106,7 @@ public class Logic
     /**
      *
      * @param size of group people
+     * @param rand instance of Random
      * @return boolean pair of matching birthday
      */
     private boolean generateBirthdayPerson(int size, Random rand) {
